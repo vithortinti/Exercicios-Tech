@@ -1,0 +1,15 @@
+D:\teste\FaturamentoEstado\bin\Debug\net7.0\FaturamentoEstado.exe
+D:\teste\FaturamentoEstado\bin\Debug\net7.0\FaturamentoEstado.deps.json
+D:\teste\FaturamentoEstado\bin\Debug\net7.0\FaturamentoEstado.runtimeconfig.json
+D:\teste\FaturamentoEstado\bin\Debug\net7.0\FaturamentoEstado.dll
+D:\teste\FaturamentoEstado\bin\Debug\net7.0\FaturamentoEstado.pdb
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\FaturamentoEstado.csproj.AssemblyReference.cache
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\FaturamentoEstado.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\FaturamentoEstado.AssemblyInfoInputs.cache
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\FaturamentoEstado.AssemblyInfo.cs
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\FaturamentoEstado.csproj.CoreCompileInputs.cache
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\FaturamentoEstado.dll
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\refint\FaturamentoEstado.dll
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\FaturamentoEstado.pdb
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\FaturamentoEstado.genruntimeconfig.cache
+D:\teste\FaturamentoEstado\obj\Debug\net7.0\ref\FaturamentoEstado.dll

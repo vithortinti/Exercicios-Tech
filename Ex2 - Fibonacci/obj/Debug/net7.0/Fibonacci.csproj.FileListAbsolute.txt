@@ -1,0 +1,30 @@
+D:\teste\Fibonacci\bin\Debug\net7.0\Fibonacci.exe
+D:\teste\Fibonacci\bin\Debug\net7.0\Fibonacci.deps.json
+D:\teste\Fibonacci\bin\Debug\net7.0\Fibonacci.runtimeconfig.json
+D:\teste\Fibonacci\bin\Debug\net7.0\Fibonacci.dll
+D:\teste\Fibonacci\bin\Debug\net7.0\Fibonacci.pdb
+D:\teste\Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.AssemblyReference.cache
+D:\teste\Fibonacci\obj\Debug\net7.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste\Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfoInputs.cache
+D:\teste\Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfo.cs
+D:\teste\Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\teste\Fibonacci\obj\Debug\net7.0\Fibonacci.dll
+D:\teste\Fibonacci\obj\Debug\net7.0\refint\Fibonacci.dll
+D:\teste\Fibonacci\obj\Debug\net7.0\Fibonacci.pdb
+D:\teste\Fibonacci\obj\Debug\net7.0\Fibonacci.genruntimeconfig.cache
+D:\teste\Fibonacci\obj\Debug\net7.0\ref\Fibonacci.dll
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\bin\Debug\net7.0\Fibonacci.exe
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\bin\Debug\net7.0\Fibonacci.deps.json
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\bin\Debug\net7.0\Fibonacci.runtimeconfig.json
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\bin\Debug\net7.0\Fibonacci.dll
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\bin\Debug\net7.0\Fibonacci.pdb
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.AssemblyReference.cache
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfoInputs.cache
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfo.cs
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\Fibonacci.dll
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\refint\Fibonacci.dll
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\Fibonacci.pdb
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\Fibonacci.genruntimeconfig.cache
+D:\MyFiles\Vagas\Exercicios-Tech\Ex2 - Fibonacci\obj\Debug\net7.0\ref\Fibonacci.dll

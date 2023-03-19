@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yta7vUBudrJANsWZKTNLgrp6XkQTtEKyDZjIvmTu3tVWmQy92Sjh1OykZRg3g/kUcNHULAX5iNHqkuJN2AOESw==",
+  "success": true,
+  "projectFilePath": "D:\\teste\\Faturamento\\Exer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

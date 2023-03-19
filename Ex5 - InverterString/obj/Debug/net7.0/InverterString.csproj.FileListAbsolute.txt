@@ -1,0 +1,15 @@
+D:\teste\InverterString\bin\Debug\net7.0\InverterString.exe
+D:\teste\InverterString\bin\Debug\net7.0\InverterString.deps.json
+D:\teste\InverterString\bin\Debug\net7.0\InverterString.runtimeconfig.json
+D:\teste\InverterString\bin\Debug\net7.0\InverterString.dll
+D:\teste\InverterString\bin\Debug\net7.0\InverterString.pdb
+D:\teste\InverterString\obj\Debug\net7.0\InverterString.csproj.AssemblyReference.cache
+D:\teste\InverterString\obj\Debug\net7.0\InverterString.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste\InverterString\obj\Debug\net7.0\InverterString.AssemblyInfoInputs.cache
+D:\teste\InverterString\obj\Debug\net7.0\InverterString.AssemblyInfo.cs
+D:\teste\InverterString\obj\Debug\net7.0\InverterString.csproj.CoreCompileInputs.cache
+D:\teste\InverterString\obj\Debug\net7.0\InverterString.dll
+D:\teste\InverterString\obj\Debug\net7.0\refint\InverterString.dll
+D:\teste\InverterString\obj\Debug\net7.0\InverterString.pdb
+D:\teste\InverterString\obj\Debug\net7.0\InverterString.genruntimeconfig.cache
+D:\teste\InverterString\obj\Debug\net7.0\ref\InverterString.dll
